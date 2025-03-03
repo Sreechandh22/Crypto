@@ -4,7 +4,7 @@ A real-time cryptocurrency tracker built with Next.js, React Query, and CoinCap 
 
 
 
-##📌 Features
+📌 Features
 
 ✅ Live crypto prices
 
@@ -17,21 +17,21 @@ A real-time cryptocurrency tracker built with Next.js, React Query, and CoinCap 
 ✅ Optimized state management
 
 
-##📂 Project Structure
+📂 Project Structure
 
-web-app/ → Next.js crypto dashboard
+    web-app/ → Next.js crypto dashboard
+    
+    docs/ → Docusaurus documentation
 
-docs/ → Docusaurus documentation
 
-
-##⚡ Setup & Run
+⚡ Setup & Run
 
 ''''sh
 git clone https://github.com/Sreechandh22/Crypto.git
 cd web-app && npm install && npm run dev
 ''''
 
-##🚀 Deployment
+🚀 Deployment
 
 Web App: Hosted on Vercel
 
