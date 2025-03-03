@@ -26,10 +26,10 @@ A real-time cryptocurrency tracker built with Next.js, React Query, and CoinCap 
 
 ⚡ Setup & Run
 
-''''sh
 git clone https://github.com/Sreechandh22/Crypto.git
+
 cd web-app && npm install && npm run dev
-''''
+
 
 🚀 Deployment
 
